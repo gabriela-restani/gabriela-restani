@@ -87,7 +87,7 @@ const gabriela = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,ts,js,tailwind,html,css,sass,figma,git,github,vscode,docker,aws,grafana" />
+<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,ts,js,tailwind,html,css,sass,figma,git,github,vscode,docker,aws,grafana,k8s" />
 
 </div>
 
