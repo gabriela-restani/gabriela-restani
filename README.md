@@ -1,8 +1,5 @@
 <div style="background-color:#09080F">
-# ✦ GitHub Profile README — Gabriela Restani
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:F51AA4,100:27184E&text=Hi,%20I'm%20Gabriela!&animation=fadeIn&fontAlignY=32&textBg=false&fontColor=fff&desc=Front-end%20Developer&descAlignY=55&descSize=30" width="100%" />
 
 <br/>
