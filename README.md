@@ -143,7 +143,7 @@ I care deeply about:
       - Responsive architecture
       - Performance-focused implementation
 
-  <a href="https://github.com/gabriela-restani/175-mw-client">
+  <a href="https://github.com/gabriela-restani/175mw-client">
     <img src="https://img.shields.io/badge/View_Project-181525?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
