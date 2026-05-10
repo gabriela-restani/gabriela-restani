@@ -58,6 +58,7 @@ const gabriela = {
 
     test: [
       "Jest",
+      "Vitest",
       "Testing Library",
       "Vue Test Utils"
     ],
